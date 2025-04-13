@@ -49,5 +49,5 @@ Password: admin
 
 6- Use the most efficient data types. For instance, use INTEGER instead of BIGINT if values are small, and avoid TEXT when VARCHAR(n) would suffice.
 
-![ERP](https://github.com/user-attachments/assets/f525fcc0-5d59-4443-8803-348344ab3f9f)
+![ERP](https://github.com/user-attachments/assets/eaed2679-459b-43a0-a989-93fa0ab2532f)
 
